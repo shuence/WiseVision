@@ -4,7 +4,7 @@ Certainly! Here is a template for a GitHub README file, which addresses the chal
 # Accessibility Challenges for Visually Impaired Individuals
 
 ## Overview
-This repository aims to highlight the various challenges faced by visually impaired individuals in their daily lives and provide solutions, resources, and improvements to foster a more inclusive and accessible environment.
+This repository aims to highlight the various challenges faced by visually impaired individuals in their daily lives and provide solutions, resources, and improvements to foster a more inclusive and accessible environment
 
 ## Table of Contents
 - [Navigation and Mobility](#navigation-and-mobility)
