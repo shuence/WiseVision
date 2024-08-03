@@ -4,6 +4,13 @@
 
 Welcome to **Wise Vision**, an innovative solution designed to assist visually impaired individuals in accurately identifying and managing currency notes. Our project is part of the RBI's HaRBInger 2024 hackathon, focusing on making financial services more inclusive and accessible. 
 
+## 🎥 Intro To Wise Vision Video
+
+<a href="https://www.youtube.com/watch?v=ie2VbtLP_94&t=8s" target="_blank">
+  <img src="https://github.com/user-attachments/assets/6ecacbda-f980-4583-b8a3-4b122e28ff79" alt="Wise Vision Intro" width="400"/>
+</a>
+
+
 ## 🚀 Key Features
 
 ### **Software App**
