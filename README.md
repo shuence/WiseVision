@@ -57,7 +57,6 @@ Welcome to **Wise Vision**, an innovative solution designed to assist visually i
   </tr>
 </table>
 
-=======
 ## 🚀 Key Features
 
 ### **Software App**
@@ -101,7 +100,6 @@ Welcome to **Wise Vision**, an innovative solution designed to assist visually i
   </div>
 </a>
 
-=======
 ## 🎥 Media Resources
 
 - **[Figma Design](https://figma.com/example-link)**: Explore our detailed design and user interface mockups.
@@ -132,7 +130,6 @@ Wise Vision is a part of the Reserve Bank of India's Third Global Hackathon – 
 
 Thank you for your interest in Wise Vision. For more updates and details, please follow our project and stay tuned for further developments!
 
-=======
 ## 🛠️ Getting Started
 
 1. **Clone the Repository**
