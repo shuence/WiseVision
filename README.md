@@ -57,7 +57,7 @@ Welcome to **Wise Vision**, an innovative solution designed to assist visually i
   </tr>
 </table>
 
-=======
+
 ## 🚀 Key Features
 
 ### **Software App**
@@ -101,12 +101,6 @@ Welcome to **Wise Vision**, an innovative solution designed to assist visually i
   </div>
 </a>
 
-=======
-## 🎥 Media Resources
-
-- **[Figma Design](https://figma.com/example-link)**: Explore our detailed design and user interface mockups.
-- **[Prototype Video](https://youtube.com/example-link)**: Watch our video showcasing the Wise Vision prototype in action.
-- **[YouTube Overview](https://youtube.com/example-link)**: Check out our YouTube video for a comprehensive overview of Wise Vision.
 
 ## 📝 Feedback
 
