@@ -1,4 +1,4 @@
-# 🌟 Wise Vision - Empowering Accessibility for the Visually Impaired 🌟
+# 🌟 Wise Vision - Empowering Accessibility for the Visually Impaired!
 
 ## Introduction
 
