@@ -126,12 +126,7 @@ Wise Vision is a part of the Reserve Bank of India's Third Global Hackathon – 
 
 Thank you for your interest in Wise Vision. For more updates and details, please follow our project and stay tuned for further developments!
 
-=======
-## 🛠️ Getting Started
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/wise-vision.git
 
 
 
